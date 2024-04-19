@@ -1,0 +1,32 @@
+
+
+     @{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>HostelManagement</title>
+  <style>
+
+      body{
+          background-image: url("/images/hostel.jpg");
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+      }
+
+  </style>
+</head>
+<body>
+
+    <h2 style="background-color:blue;">Welcome To Crystal Hostel</h2>
+    <h5 style="background-color:tomato;">Dear Student, Please Book Now</h5>
+    
+
+</body>
+</html>
+
+
+  create folder images in wwwwroot and keep the image in images folder
